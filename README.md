@@ -11,6 +11,6 @@ npm install
 npm run dev
 ```
 
-### Check this site :
+### Check this short documentation :
 
 https://emox-one.vercel.app/
