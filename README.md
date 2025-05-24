@@ -1,12 +1,16 @@
-# React + Vite
+# Emox 😄 :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun python package to convert Text into Emoji.
+The process occurs with the help of ANN and NLP.You can check its repositery in the same account.
 
-Currently, two official plugins are available:
+## Running locally
+- first Download the zip and extract and install all dependencies :
+ ```bash
+cd emox
+npm install
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Check this site :
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://emox-one.vercel.app/
